@@ -22,3 +22,6 @@ Overall, the program follows a modular structure, where each function performs a
 
 *OUTPUT* :
 
+![Image](https://github.com/user-attachments/assets/5610d153-7a3e-4a03-bbbb-a9ef08a21001)
+
+![Image](https://github.com/user-attachments/assets/ed8b944e-e638-4f58-8f46-f2549c79857c)
